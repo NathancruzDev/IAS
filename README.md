@@ -1,6 +1,6 @@
 # Laboratórios Microsoft Learning — IA Generativa e Azure OpenAI
 
-Este repositório contém um resumo aprofundado e **orientações práticas** sobre três laboratórios essenciais da Microsoft Learning, relacionados ao uso de IA generativa e à governança responsável no Microsoft Copilot e Azure OpenAI.
+Este repositório contém um resumo aprofundado de orientações sobre três laboratórios essenciais da Microsoft Learning, relacionados a como usar IA generativa e à governança responsável no Microsoft Copilot e Azure OpenAI.
 
 ---
 

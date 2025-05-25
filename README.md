@@ -22,7 +22,6 @@ O Microsoft Copilot integra modelos de linguagem natural (como o GPT) às ferram
    - Sua organização precisa ter licenças do **Microsoft 365 E3/E5** com habilitação para o Copilot.  
    - O administrador deve ativar o Copilot no **Microsoft 365 Admin Center**.
    - Ative nas ferramentas do 365 aonde vocẽ quer usar.
-     ```
 
 ## Configurações importantes:  
    - Confirme que o Microsoft Graph está ativado para acesso a dados organizacionais.  
@@ -31,7 +30,7 @@ O Microsoft Copilot integra modelos de linguagem natural (como o GPT) às ferram
 
 ## ☁️ O que é Azure OpenAI
 
-O **Azure OpenAI Service** permite acesso aos modelos da OpenAI com toda a segurança e escalabilidade da infraestrutura Azure.
+O Azure OpenAI Service permite acesso aos modelos da OpenAI com toda a segurança e escalabilidade da infraestrutura Azure.
 
 ---
 
@@ -47,8 +46,8 @@ O **Azure OpenAI Service** permite acesso aos modelos da OpenAI com toda a segur
 
 2. **Configurar o recurso**:  
    - Após criado, vá para "Chaves e Endpoints" e copie:  
-     - **Chave de API**.  
-     - **URL do endpoint**.
+     - Chave de API.  
+     - URL do endpoint.
 
 3. **Testar com o Playground**:  
    - Acesse o Playground do Azure OpenAI.  
